@@ -7,13 +7,13 @@ However i'll be coming back to this project and add a bunch of ui elements in th
 + Radiobutton
 + Entry box
 + Color picker
-4. Popup message box
-5. Breadcrumbs
-6. Menu
-7. Menubutton
-8. File selector
-9. check button
-10. Progress bar
++ Popup message box
++ Breadcrumbs
++ Menu
++ Menubutton
++ File selector
++ check button
++ Progress bar
 
 
 ## Button
@@ -47,3 +47,7 @@ You can change any property of the label in the code by using the function:
 The alterable properties are mentioned in the _Label Style_ class
 
 Thats it for now. See you next time :P
+
+> [!TIP]
+> Label and Button are the most commonly used ui elements.
+
