@@ -4,9 +4,9 @@ A basic implementation of various ui elements using python and pygame
 For now the only ui elements i have implemented are the label and the button
 However i'll be coming back to this project and add a bunch of ui elements in the future, like :
 
-1. Radiobutton
-2. Entry box
-3. Color picker
++ Radiobutton
++ Entry box
++ Color picker
 4. Popup message box
 5. Breadcrumbs
 6. Menu
