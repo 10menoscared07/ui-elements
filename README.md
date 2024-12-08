@@ -42,7 +42,7 @@ However it only dosent have a background rect and is only used to display text.
 
 You can change any property of the label in the code by using the function:
 
->  Label.change( "<Property>", "<Value>") 
+>  Label.change( "Property", "Value") 
 
 The alterable properties are mentioned in the _Label Style_ class
 
